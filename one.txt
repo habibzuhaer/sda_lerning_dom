@@ -1,6 +1,6 @@
 function addNumber(a,b){
 	return a+b;
 }
-function addNumber(a,b){
+function DeductNumber(a,b){
 	return a+b;
 }
